@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   gitops-app-sample:
   - apiVersion: v2
-    appVersion: 40ae79f040c24a76a0c3778638b7758094f3ce47
-    created: "2021-09-15T08:46:58.763084684Z"
+    appVersion: b1f5f37afb13d2333608b8dbcc867469b8fe0705
+    created: "2021-09-15T11:47:12.382364935Z"
     description: A Helm chart for Kubernetes
-    digest: 2b79514f4c06d7bb563ed5da04efd711e0d682743428677f9f77ce3f31ddba32
+    digest: c67af0c1a6402ccf386f7a5d2ca6fd894618dbb466aeb13ad4f25395605e3556
     name: gitops-app-sample
     type: application
     urls:
     - https://giantswarm.github.io/gitops-poc-repository/gitops-app-sample-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-15T08:46:58.76231636Z"
+generated: "2021-09-15T11:47:12.381675835Z"
